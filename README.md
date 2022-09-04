@@ -14,7 +14,7 @@ https://www.zebra.com/ap/en/support-downloads/printer-software/zebranet-bridge-e
 4. プリンタに"E:ANMDJ.TTF"が存在する場合は削除。</br>
    ! U1 do "file.delete" "E:ANMDJ.TTF"
 
-5. myfont.zplをプリンタに送付
+5. myfont.zplをプリンタに送付。
 
 6. プリンタに"E:ANMDJ.TTF"が作成されたことを確認。</br>
 　　! U1 do "file.dir" "E"</br>
