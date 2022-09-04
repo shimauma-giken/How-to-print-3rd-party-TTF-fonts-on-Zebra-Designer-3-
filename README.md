@@ -24,4 +24,9 @@ https://www.zebra.com/ap/en/support-downloads/printer-software/zebranet-bridge-e
 7. ANMDJ.TTFを使用してテスト印字をする。</br>
 　 サンプル印刷用ZPL → testPrint_ANMDJ.zpl
   
-   
+--------
+
+# ファイル
+testPrint_ANMDJ.zpl: サンプル印刷用ZPL
+ANMDJ_IPAG.zpl: IPA Gothic をANDMJ.TTFとしてインストールするZPL
+ANMDJ_IPAM.zpl: IPA Mincho をANDMJ.TTFとしてインストールするZPL
